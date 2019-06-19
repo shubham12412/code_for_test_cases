@@ -2,6 +2,10 @@
 
 https://junit.org/junit4/
 
+https://www.baeldung.com/mockito-vs-easymock-vs-jmockit
+
+https://site.mockito.org/
+
 https://github.com/powermock/powermock/wiki/Mockito-2-Maven
 
 https://github.com/powermock/powermock/wiki/Mockito
