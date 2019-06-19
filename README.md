@@ -22,3 +22,5 @@ https://howtodoinjava.com/mockito/junit-mockito-example/
 
 https://www.vogella.com/tutorials/Mockito/article.html
 
+https://dzone.com/articles/7-tips-for-writing-better-unit-tests-in-java
+
