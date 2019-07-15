@@ -3,4 +3,6 @@
 
 https://github.com/hamcrest/JavaHamcrest/blob/master/docs/tutorial.md
 
+http://hamcrest.org/JavaHamcrest/
+
 
