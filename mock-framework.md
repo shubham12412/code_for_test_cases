@@ -12,4 +12,6 @@
 
 6) https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#testing-resources
 
+7) https://github.com/hamcrest/JavaHamcrest
+
 
