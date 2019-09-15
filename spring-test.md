@@ -6,3 +6,5 @@
 
 3) https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#spring-mvc-test-vs-end-to-end-integration-tests
 
+4) https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#spring-mvc-test-client
+
