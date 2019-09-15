@@ -10,3 +10,5 @@
 
 5) https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#webtestclient
 
+6) https://learning.oreilly.com/library/view/learning-spring-50/9781787120341/4c398ec9-a4cf-4e0c-8753-1a8940ecb08b.xhtml
+
