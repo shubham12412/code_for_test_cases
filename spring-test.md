@@ -14,3 +14,5 @@
 
 7) https://github.com/spring-projects/spring-framework/tree/master/spring-test
 
+8) https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-testing.html#boot-features-testing-spring-boot-applications
+
